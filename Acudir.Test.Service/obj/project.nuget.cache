@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LTTN8yeAlC+VMelNo0ImLUh36632Yny/j49clfL/MvXPXLn4oQvatCuOTwICstZr1q4ExZbJL7bC5vGYEo5YHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emanu\\Source\\Repos\\TEST-ACUDIR\\Acudir.Test.Service\\Acudir.Test.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emanu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\emanu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\emanu\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\emanu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

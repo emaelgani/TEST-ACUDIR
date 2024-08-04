@@ -5,6 +5,10 @@ VisualStudioVersion = 17.1.31911.260
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Acudir.Test.Apis", "Acudir.Test.Apis\Acudir.Test.Apis.csproj", "{122BCC8C-6BCF-4661-BC30-78DC14678AC5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acudir.Test.Data", "Acudir.Test.Data\Acudir.Test.Data.csproj", "{8101265E-406C-496F-A032-00336F9A0543}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acudir.Test.Service", "Acudir.Test.Service\Acudir.Test.Service.csproj", "{1608DD8C-EA13-489A-924C-F70A0B1189FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{122BCC8C-6BCF-4661-BC30-78DC14678AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{122BCC8C-6BCF-4661-BC30-78DC14678AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{122BCC8C-6BCF-4661-BC30-78DC14678AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8101265E-406C-496F-A032-00336F9A0543}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8101265E-406C-496F-A032-00336F9A0543}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8101265E-406C-496F-A032-00336F9A0543}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8101265E-406C-496F-A032-00336F9A0543}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1608DD8C-EA13-489A-924C-F70A0B1189FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1608DD8C-EA13-489A-924C-F70A0B1189FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1608DD8C-EA13-489A-924C-F70A0B1189FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1608DD8C-EA13-489A-924C-F70A0B1189FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

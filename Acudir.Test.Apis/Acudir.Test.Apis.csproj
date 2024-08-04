@@ -7,19 +7,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Content Remove="Test.json" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="Test.json">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-  </ItemGroup>
-
-  <ItemGroup>
     <PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="7.0.2" />
     <PackageReference Include="ServiceStack.Interfaces" Version="6.0.2" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Acudir.Test.Data\Acudir.Test.Data.csproj" />
+    <ProjectReference Include="..\Acudir.Test.Service\Acudir.Test.Service.csproj" />
   </ItemGroup>
 
   <ItemGroup>

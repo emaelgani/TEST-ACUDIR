@@ -1,0 +1,13 @@
+C:\Users\emanu\Source\Repos\TEST-ACUDIR\Acudir.Test.Data\obj\Debug\net6.0\Acudir.Test.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emanu\Source\Repos\TEST-ACUDIR\Acudir.Test.Data\obj\Debug\net6.0\Acudir.Test.Data.AssemblyInfoInputs.cache
+C:\Users\emanu\Source\Repos\TEST-ACUDIR\Acudir.Test.Data\obj\Debug\net6.0\Acudir.Test.Data.AssemblyInfo.cs
+C:\Users\emanu\Source\Repos\TEST-ACUDIR\Acudir.Test.Data\obj\Debug\net6.0\Acudir.Test.Data.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Source\Repos\TEST-ACUDIR\Acudir.Test.Data\bin\Debug\net6.0\Acudir.Test.Data.deps.json
+C:\Users\emanu\Source\Repos\TEST-ACUDIR\Acudir.Test.Data\bin\Debug\net6.0\Acudir.Test.Data.dll
+C:\Users\emanu\Source\Repos\TEST-ACUDIR\Acudir.Test.Data\bin\Debug\net6.0\Acudir.Test.Data.pdb
+C:\Users\emanu\Source\Repos\TEST-ACUDIR\Acudir.Test.Data\obj\Debug\net6.0\Acudir.Test.Data.dll
+C:\Users\emanu\Source\Repos\TEST-ACUDIR\Acudir.Test.Data\obj\Debug\net6.0\refint\Acudir.Test.Data.dll
+C:\Users\emanu\Source\Repos\TEST-ACUDIR\Acudir.Test.Data\obj\Debug\net6.0\Acudir.Test.Data.pdb
+C:\Users\emanu\Source\Repos\TEST-ACUDIR\Acudir.Test.Data\obj\Debug\net6.0\ref\Acudir.Test.Data.dll
+C:\Users\emanu\Source\Repos\TEST-ACUDIR\Acudir.Test.Data\obj\Debug\net6.0\Acudir.Test.Data.csproj.AssemblyReference.cache
+C:\Users\emanu\Source\Repos\TEST-ACUDIR\Acudir.Test.Data\bin\Debug\net6.0\Test.json
